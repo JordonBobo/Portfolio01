@@ -1,6 +1,6 @@
 
 body {
-    background-color: beige;
+    background-color: burlywood;
 }
 
 .blue {
@@ -8,4 +8,18 @@ body {
 }
 .bold {
     font-weight: bold;
+}
+footer {
+    text-align: center;
+}
+.profile {
+    margin: 25px;
+}
+
+.left {
+    float: left;
+}
+
+.margin {
+    margin: 15px;
 }
