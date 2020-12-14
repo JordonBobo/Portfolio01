@@ -1,6 +1,5 @@
 # Portfolio01
 
-## Jordon Bobo
 Portfolio WebPage for LX Jordon Bobo, current as of December 2020.
 
 
@@ -15,6 +14,6 @@ Live link:   https://jordonbobo.github.io/Portfolio01/
 
 ### Screenshots:
 
-![screenshot](./Assets/screenshot1.jpg?raw=true)
-![screenshot](./Assets/screenshot2.jpg?raw=true)
+![screenshot](./Assets/screenshot1.jpg)
+![screenshot](./Assets/screenshot2.JPG?raw=true)
 ![screenshot](./Assets/screenshot3.jpg?raw=true)
