@@ -14,6 +14,6 @@ Live link:   https://jordonbobo.github.io/Portfolio01/
 
 ### Screenshots:
 
-![screenshot](./Assets/screenshot1.jpg)
+![screenshot](./Assets/screenshot1.JPG)
 ![screenshot](./Assets/screenshot2.JPG?raw=true)
-![screenshot](./Assets/screenshot3.jpg?raw=true)
+![screenshot](./Assets/screenshot3.JPG?raw=true)
