@@ -1,5 +1,5 @@
 
-/* General Sections */
+/* General */
 
 body {
     background-color: burlywood;
@@ -21,28 +21,6 @@ footer {
     position: fixed;
     width: 100%;
 }
-
-
-/* Home sections*/
-
-.profile {
-    margin: 10px;
-}
-
-/* Contact Sections */
-.contactMe {
-    background-color: white;
-    align-items: center;  
-    padding-bottom: 15px;  
-}
-
-
-/* Profile Sections */
-
-
-
-/* General use */
-
 .bold {
     font-weight: bold;
 }
@@ -57,3 +35,26 @@ footer {
 .center {
     align: center;
 }
+.fullWidth {
+    width: 100%;
+}
+
+/* Home page*/
+
+.profile {
+    margin: 10px;
+}
+
+
+/* Contact page */
+.contactMe {
+    background-color: white;
+    align-items: center;  
+    padding-bottom: 15px;  
+}
+
+
+/* Portfolio page */
+
+
+
