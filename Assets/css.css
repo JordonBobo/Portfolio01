@@ -38,6 +38,9 @@ footer {
 .fullWidth {
     width: 100%;
 }
+.widthTen {
+    width: 10%;
+}
 
 /* Home page*/
 
@@ -49,9 +52,7 @@ footer {
 /* Contact page */
 .contactMe {
     background-color: white;
-    align-items: center;  
-    padding-bottom: 15px;  
-}
+    padding: 15px;
 
 
 /* Portfolio page */
