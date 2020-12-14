@@ -4,7 +4,7 @@ Portfolio WebPage for LX Jordon Bobo, current as of December 2020.
 
 
 ## Description
-3 pages total. Home page with intoduction and casual photo. Contact Page with information for reaching out to Jordon, contact form does not currently function. Porfolio page with placeholder entries to be used later for projects or other other coding reltated efforts.
+3 pages total. Home page with intoduction and casual photo. Contact Page with information for reaching out to Jordon, contact form does not currently function. Porfolio page with placeholder entries to be used later for projects or other coding reltated efforts.
 
 
 ### Links to the page:
